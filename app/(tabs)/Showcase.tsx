@@ -22,7 +22,7 @@ export default function ComponentShowcase() {
       />
 
       <View style={styles.card}>
-        <Text style={styles.cardTitle}>Counter</Text>
+        <Text style={styles.cardTitle}>Aerial Wins Counter</Text>
         <Text style={styles.counterText}>Count: {count}</Text>
         <View style={styles.row}>
           <View style={styles.buttonWrap}>
